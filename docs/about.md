@@ -8,7 +8,7 @@ sentences about you! The rest of this page page can
 include a little bit about yourself. Some things you
 might include:
 
-1. Your current position
+1. Living my best life!
 1. Organizations you're involved with
 1. Your personal and professional values
 1. Hobbies or fun facts
