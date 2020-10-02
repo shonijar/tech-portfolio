@@ -14,7 +14,7 @@ const siteConfig = {
     title: 'CC', // Title for your website.
     tagline: 'Always curious and growing technology leader.',
     profilePhoto: 'img/profile.png',
-    url: 'https://shonijar.github.io', // Your website URL
+    //url: 'https://shonijar.github.io', // Your website URL
     baseUrl: '/tech-portfolio/', // Base URL for your project */
     // For github.io type URLs, you would set the url and baseUrl like:
     //   url: 'https://facebook.github.io',
