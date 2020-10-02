@@ -1,6 +1,5 @@
 /**
- * Copyright (c) Facebook, Inc. and its affiliates.
- *
+ * Copyright (c) Facebook, Inc. and its affiliates
  * This source code is licensed under the MIT license found in the
  * LICENSE file in the root directory of this source tree.
  */
@@ -12,7 +11,7 @@
 const users = [];
 
 const siteConfig = {
-    title: 'C Campbell', // Title for your website.
+    title: 'CC', // Title for your website.
     tagline: 'Always curious and growing technology leader.',
     profilePhoto: 'img/profile.png',
     url: 'https://shonijar.github.io', // Your website URL
@@ -23,7 +22,7 @@ const siteConfig = {
 
     // Used for publishing and more
     projectName: 'tech-portfolio',
-    organizationName: 'C Cam',
+    organizationName: 'CC',
     // For top-level user or org sites, the organization is still the same.
     // e.g., for the https://JoelMarcey.github.io site, it would be set like...
     //   organizationName: 'JoelMarcey'
@@ -48,7 +47,7 @@ const siteConfig = {
     },
 
     // This copyright info is used in /core/Footer.js and blog RSS/Atom feeds.
-    copyright: `Copyright © ${new Date().getFullYear()} C Cam`,
+    copyright: `Copyright © ${new Date().getFullYear()} CC`,
 
     highlight: {
         // Highlight.js theme to use for syntax highlighting in code blocks.
