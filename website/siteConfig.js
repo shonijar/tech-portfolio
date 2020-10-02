@@ -22,7 +22,7 @@ const siteConfig = {
 
     // Used for publishing and more
     projectName: 'tech-portfolio',
-    organizationName: 'CC',
+    organizationName: '',
     // For top-level user or org sites, the organization is still the same.
     // e.g., for the https://JoelMarcey.github.io site, it would be set like...
     //   organizationName: 'JoelMarcey'
@@ -47,7 +47,7 @@ const siteConfig = {
     },
 
     // This copyright info is used in /core/Footer.js and blog RSS/Atom feeds.
-    copyright: `Copyright © ${new Date().getFullYear()} CC`,
+    copyright: `Copyright © ${new Date().getFullYear()} name`,
 
     highlight: {
         // Highlight.js theme to use for syntax highlighting in code blocks.
